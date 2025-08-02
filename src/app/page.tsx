@@ -6,7 +6,7 @@ export default function Home() {
       <main className="flex flex-col gap-8 row-start-1 items-center sm:items-start">
         <h1 className="text-4xl font-bold mb-4">Boa Tarde!</h1>
         <p className="text-xl text-gray-600">
-          Hora de transformar ideias em realidade!
+          Hora mudar o game!
         </p>
       </main>
       <MadeWithLasy />
